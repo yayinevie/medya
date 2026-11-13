@@ -1,0 +1,1442 @@
+[
+ {
+  "order": 1,
+  "slug": "renkli-cizgi-film",
+  "name": "Renkli Çizgi Film",
+  "tagline": "Canlı renkler, net çizgiler, neşeli yüzler.",
+  "ideal_for": "Tatil, macera ve komik hikâyeler",
+  "palette": [
+   "#2F80ED",
+   "#F2C94C",
+   "#EB5757",
+   "#6FCF97",
+   "#FFFFFF"
+  ],
+  "cover": "covers/kapak-renkli-cizgi-film.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 2,
+  "slug": "suluboya-masal",
+  "name": "Suluboya Masal",
+  "tagline": "Yumuşak pastel tonlar, rüya gibi sayfalar.",
+  "ideal_for": "Uyku masalları ve duygusal hikâyeler",
+  "palette": [
+   "#A8C5DA",
+   "#F4C7C3",
+   "#F7E1A1",
+   "#B9D7B0",
+   "#FFFDF8"
+  ],
+  "cover": "covers/kapak-suluboya-masal.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 3,
+  "slug": "kuru-boya",
+  "name": "Kuru Boya El Çizimi",
+  "tagline": "Elle çizilmiş sıcaklık, çocuk çizimi hissi.",
+  "ideal_for": "Aile, okul ve arkadaşlık hikâyeleri",
+  "palette": [
+   "#E07A5F",
+   "#3D405B",
+   "#81B29A",
+   "#F2CC8F",
+   "#F4F1DE"
+  ],
+  "cover": "covers/kapak-kuru-boya.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 4,
+  "slug": "kagit-kolaj",
+  "name": "Kâğıt Kolaj",
+  "tagline": "Kesilmiş renkli kâğıtlardan sahneler.",
+  "ideal_for": "Hayvanlar, doğa ve öğretici kitaplar",
+  "palette": [
+   "#264653",
+   "#2A9D8F",
+   "#E9C46A",
+   "#F4A261",
+   "#E76F51"
+  ],
+  "cover": "covers/kapak-kagit-kolaj.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 5,
+  "slug": "3d-oyuncak",
+  "name": "3D Oyuncak",
+  "tagline": "Yumuşak, animasyon filmi gibi üç boyut.",
+  "ideal_for": "Fantastik, uzay ve robot hikâyeleri",
+  "palette": [
+   "#7B61FF",
+   "#00C2A8",
+   "#FFB800",
+   "#FF6B6B",
+   "#F5F7FF"
+  ],
+  "cover": "covers/kapak-3d-oyuncak.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 6,
+  "slug": "klasik-masal",
+  "name": "Klasik Masal",
+  "tagline": "Eski masal kitapları gibi, nostaljik ve zarif.",
+  "ideal_for": "Masallar, efsaneler ve klasik hikâyeler",
+  "palette": [
+   "#7A4E2D",
+   "#C9A227",
+   "#2F4858",
+   "#8C2F39",
+   "#F3E9D2"
+  ],
+  "cover": "covers/kapak-klasik-masal.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 7,
+  "slug": "modern-sade",
+  "name": "Modern Sade",
+  "tagline": "Düz renkler, az detay, şık kompozisyon.",
+  "ideal_for": "Kavram kitapları ve modern hikâyeler",
+  "palette": [
+   "#14181F",
+   "#B5121B",
+   "#F7F3EA",
+   "#A8812F",
+   "#6B7A8F"
+  ],
+  "cover": "covers/kapak-modern-sade.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 8,
+  "slug": "pastel-boya-ruyasi",
+  "name": "Pastel Boya Rüyası",
+  "tagline": "Yumuşak pastel lekeler, sıcacık sayfalar.",
+  "ideal_for": "Uyku masalları ve sevgi hikâyeleri",
+  "palette": [
+   "#E9A6A6",
+   "#9FC5E8",
+   "#F6D78B",
+   "#B6D7A8",
+   "#FFF8EE"
+  ],
+  "cover": "covers/kapak-pastel-boya-ruyasi.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 9,
+  "slug": "kece-masal",
+  "name": "Keçe Masal",
+  "tagline": "Keçeden dikilmiş gibi yumuşacık dünya.",
+  "ideal_for": "Oyuncak, hayvan ve aile hikâyeleri",
+  "palette": [
+   "#E76F51",
+   "#2A9D8F",
+   "#E9C46A",
+   "#F4A261",
+   "#FDF6EC"
+  ],
+  "cover": "covers/kapak-kece-masal.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 10,
+  "slug": "uyku-vakti",
+  "name": "Uyku Vakti",
+  "tagline": "Gece mavisi, yıldızlar ve fısıltı gibi sayfalar.",
+  "ideal_for": "Uyku öncesi masallar",
+  "palette": [
+   "#1D3557",
+   "#457B9D",
+   "#F1C453",
+   "#A8DADC",
+   "#F1FAEE"
+  ],
+  "cover": "covers/kapak-uyku-vakti.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 11,
+  "slug": "sevimli-hayvanlar",
+  "name": "Sevimli Hayvanlar",
+  "tagline": "Yuvarlak hatlı, gülümseten hayvan dostlar.",
+  "ideal_for": "Hayvan ve doğa hikâyeleri",
+  "palette": [
+   "#F4A261",
+   "#2A9D8F",
+   "#E9C46A",
+   "#E76F51",
+   "#FFFBF2"
+  ],
+  "cover": "covers/kapak-sevimli-hayvanlar.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 12,
+  "slug": "parmak-boya",
+  "name": "Parmak Boya",
+  "tagline": "Cesur lekeler, neşeli bir oyun gibi.",
+  "ideal_for": "Renkler, şekiller ve ilk kavramlar",
+  "palette": [
+   "#E63946",
+   "#FFB703",
+   "#219EBC",
+   "#8AC926",
+   "#FFFDF7"
+  ],
+  "cover": "covers/kapak-parmak-boya.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 13,
+  "slug": "linol-baski-cocuk",
+  "name": "Minik Linol",
+  "tagline": "El baskısı gibi sıcak ve özgün.",
+  "ideal_for": "Masallar ve tekerlemeler",
+  "palette": [
+   "#C1121F",
+   "#003049",
+   "#FDF0D5",
+   "#669BBC",
+   "#FFF8F0"
+  ],
+  "cover": "covers/kapak-linol-baski-cocuk.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 14,
+  "slug": "noktali-desen",
+  "name": "Noktalı Desen",
+  "tagline": "Puantiyeler, çizgiler ve neşeli desenler.",
+  "ideal_for": "Kavram ve sayı kitapları",
+  "palette": [
+   "#FF6B6B",
+   "#4ECDC4",
+   "#FFE66D",
+   "#1A535C",
+   "#F7FFF7"
+  ],
+  "cover": "covers/kapak-noktali-desen.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 15,
+  "slug": "iskandinav-masali",
+  "name": "İskandinav Masalı",
+  "tagline": "Sade, sıcak, halk motifli.",
+  "ideal_for": "Kış, aile ve doğa hikâyeleri",
+  "palette": [
+   "#D62828",
+   "#003049",
+   "#EAE2B7",
+   "#6A994E",
+   "#FFFCF2"
+  ],
+  "cover": "covers/kapak-iskandinav-masali.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 16,
+  "slug": "balon-dunyasi",
+  "name": "Balon Dünyası",
+  "tagline": "Parlak, şişkin, oyuncak gibi.",
+  "ideal_for": "Kutlama ve oyun hikâyeleri",
+  "palette": [
+   "#FF595E",
+   "#FFCA3A",
+   "#8AC926",
+   "#1982C4",
+   "#F4F9FF"
+  ],
+  "cover": "covers/kapak-balon-dunyasi.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 17,
+  "slug": "tebesir-tahtasi",
+  "name": "Tebeşir Tahtası",
+  "tagline": "Kara tahtada rengârenk tebeşir.",
+  "ideal_for": "Okul ve öğrenme hikâyeleri",
+  "palette": [
+   "#2B3A42",
+   "#F2F2F2",
+   "#F4D35E",
+   "#EE964B",
+   "#93C47D"
+  ],
+  "cover": "covers/kapak-tebesir-tahtasi.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 18,
+  "slug": "deniz-alti",
+  "name": "Deniz Altı",
+  "tagline": "Mercanlar, balıklar, kabarcıklar.",
+  "ideal_for": "Deniz ve keşif hikâyeleri",
+  "palette": [
+   "#0077B6",
+   "#00B4D8",
+   "#FF8FAB",
+   "#FFD166",
+   "#E0FBFC"
+  ],
+  "cover": "covers/kapak-deniz-alti.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 19,
+  "slug": "geometrik-sekiller",
+  "name": "Geometrik Şekiller",
+  "tagline": "Daire, kare, üçgen: ilk kitaplar için.",
+  "ideal_for": "Bebek ve ilk kavram kitapları",
+  "palette": [
+   "#EF476F",
+   "#FFD166",
+   "#06D6A0",
+   "#118AB2",
+   "#FFFDF9"
+  ],
+  "cover": "covers/kapak-geometrik-sekiller.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 20,
+  "slug": "sicak-guaj",
+  "name": "Sıcak Guaj",
+  "tagline": "Eski resimli kitaplar gibi kadife renkler.",
+  "ideal_for": "Aile ve günlük yaşam hikâyeleri",
+  "palette": [
+   "#BC4749",
+   "#386641",
+   "#F2E8CF",
+   "#E9C46A",
+   "#FBF6EC"
+  ],
+  "cover": "covers/kapak-sicak-guaj.jpg",
+  "age": [
+   "3-7"
+  ]
+ },
+ {
+  "order": 101,
+  "slug": "macera-cizgi-roman",
+  "name": "Macera Çizgi Romanı",
+  "tagline": "Dinamik paneller, cesur kahramanlar.",
+  "ideal_for": "Macera ve aksiyon hikâyeleri",
+  "palette": [
+   "#E63946",
+   "#1D3557",
+   "#F1C453",
+   "#457B9D",
+   "#FFF8E7"
+  ],
+  "cover": "covers/kapak-macera-cizgi-roman.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 102,
+  "slug": "kasif-defteri",
+  "name": "Kâşif Defteri",
+  "tagline": "Sahada tutulmuş bir keşif günlüğü.",
+  "ideal_for": "Keşif, doğa ve bilim hikâyeleri",
+  "palette": [
+   "#6B4226",
+   "#2A9D8F",
+   "#E9C46A",
+   "#264653",
+   "#FAF3E3"
+  ],
+  "cover": "covers/kapak-kasif-defteri.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 103,
+  "slug": "uzay-akademisi",
+  "name": "Uzay Akademisi",
+  "tagline": "Gezegenler, roketler, büyük merak.",
+  "ideal_for": "Bilim kurgu ve uzay hikâyeleri",
+  "palette": [
+   "#0B132B",
+   "#3A86FF",
+   "#FFBE0B",
+   "#FB5607",
+   "#E0E7FF"
+  ],
+  "cover": "covers/kapak-uzay-akademisi.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 104,
+  "slug": "piksel-dunyasi",
+  "name": "Piksel Dünyası",
+  "tagline": "Oyun dünyasından fırlamış gibi.",
+  "ideal_for": "Oyun, teknoloji ve macera hikâyeleri",
+  "palette": [
+   "#2B2D42",
+   "#EF233C",
+   "#8AC926",
+   "#FFCA3A",
+   "#EDF2F4"
+  ],
+  "cover": "covers/kapak-piksel-dunyasi.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 105,
+  "slug": "ejderha-diyari",
+  "name": "Ejderha Diyarı",
+  "tagline": "Şatolar, ejderhalar, büyülü yollar.",
+  "ideal_for": "Fantastik macera hikâyeleri",
+  "palette": [
+   "#2D6A4F",
+   "#9D0208",
+   "#E9C46A",
+   "#3A0CA3",
+   "#F8F4E3"
+  ],
+  "cover": "covers/kapak-ejderha-diyari.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 106,
+  "slug": "genc-dedektif",
+  "name": "Genç Dedektif",
+  "tagline": "İpuçları, gölgeler ve büyüteç.",
+  "ideal_for": "Gizem ve dedektif hikâyeleri",
+  "palette": [
+   "#14181F",
+   "#E63946",
+   "#F1FAEE",
+   "#A8DADC",
+   "#F7F3EA"
+  ],
+  "cover": "covers/kapak-genc-dedektif.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 107,
+  "slug": "doga-gozlemcisi",
+  "name": "Doğa Gözlemcisi",
+  "tagline": "Yapraklar, böcekler, kuşlar: yakından.",
+  "ideal_for": "Doğa ve hayvan bilgisi",
+  "palette": [
+   "#606C38",
+   "#283618",
+   "#DDA15E",
+   "#BC6C25",
+   "#FEFAE0"
+  ],
+  "cover": "covers/kapak-doga-gozlemcisi.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 108,
+  "slug": "manga-esintisi",
+  "name": "Manga Esintisi",
+  "tagline": "İfadeli gözler, hızlı çizgiler.",
+  "ideal_for": "Arkadaşlık, okul ve macera",
+  "palette": [
+   "#FF006E",
+   "#3A86FF",
+   "#FFBE0B",
+   "#14181F",
+   "#FFFFFF"
+  ],
+  "cover": "covers/kapak-manga-esintisi.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 109,
+  "slug": "animasyon-filmi",
+  "name": "Animasyon Filmi",
+  "tagline": "Sinema perdesinden çıkmış gibi.",
+  "ideal_for": "Komedi ve macera",
+  "palette": [
+   "#3A86FF",
+   "#FF006E",
+   "#FFBE0B",
+   "#8338EC",
+   "#F5F7FF"
+  ],
+  "cover": "covers/kapak-animasyon-filmi.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 110,
+  "slug": "mizah-karikatur",
+  "name": "Mizah Karikatür",
+  "tagline": "Kahkaha garantili, kıvrak çizgi.",
+  "ideal_for": "Komik ve mizahi hikâyeler",
+  "palette": [
+   "#14181F",
+   "#E76F51",
+   "#2A9D8F",
+   "#F4A261",
+   "#FFFDF8"
+  ],
+  "cover": "covers/kapak-mizah-karikatur.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 111,
+  "slug": "tarihte-yolculuk",
+  "name": "Tarihte Yolculuk",
+  "tagline": "Eski haritalar, kaleler, kahramanlar.",
+  "ideal_for": "Tarih ve zaman yolculuğu",
+  "palette": [
+   "#7F5539",
+   "#9C6644",
+   "#B08968",
+   "#2F3E46",
+   "#F3E9D2"
+  ],
+  "cover": "covers/kapak-tarihte-yolculuk.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 112,
+  "slug": "sokak-sanati",
+  "name": "Sokak Sanatı",
+  "tagline": "Sprey boya, cesur renkler, şehir ruhu.",
+  "ideal_for": "Şehir, müzik ve spor hikâyeleri",
+  "palette": [
+   "#FF006E",
+   "#FB5607",
+   "#FFBE0B",
+   "#3A86FF",
+   "#F2F2F2"
+  ],
+  "cover": "covers/kapak-sokak-sanati.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 113,
+  "slug": "kagit-oyma",
+  "name": "Kâğıt Oyma",
+  "tagline": "Katman katman oyulmuş kâğıt sahneler.",
+  "ideal_for": "Masal ve fantastik hikâyeler",
+  "palette": [
+   "#264653",
+   "#2A9D8F",
+   "#E9C46A",
+   "#F4A261",
+   "#E76F51"
+  ],
+  "cover": "covers/kapak-kagit-oyma.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 114,
+  "slug": "retro-cizgi-roman",
+  "name": "Retro Çizgi Roman",
+  "tagline": "Eski dergilerin tramlı renkleri.",
+  "ideal_for": "Macera ve gizem",
+  "palette": [
+   "#D62828",
+   "#003049",
+   "#FCBF49",
+   "#F77F00",
+   "#EAE2B7"
+  ],
+  "cover": "covers/kapak-retro-cizgi-roman.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 115,
+  "slug": "suluboya-macera",
+  "name": "Suluboya Macera",
+  "tagline": "Rüzgârlı, hareketli, ışıklı.",
+  "ideal_for": "Yolculuk ve keşif hikâyeleri",
+  "palette": [
+   "#0081A7",
+   "#00AFB9",
+   "#FED9B7",
+   "#F07167",
+   "#FDFCDC"
+  ],
+  "cover": "covers/kapak-suluboya-macera.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 116,
+  "slug": "gizemli-orman",
+  "name": "Gizemli Orman",
+  "tagline": "Sisli ağaçlar, parlayan gözler.",
+  "ideal_for": "Gizem ve fantastik hikâyeler",
+  "palette": [
+   "#1B4332",
+   "#40916C",
+   "#D8F3DC",
+   "#FFD166",
+   "#081C15"
+  ],
+  "cover": "covers/kapak-gizemli-orman.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 117,
+  "slug": "robot-atolyesi",
+  "name": "Robot Atölyesi",
+  "tagline": "Dişliler, vidalar, sevimli robotlar.",
+  "ideal_for": "Bilim ve icat hikâyeleri",
+  "palette": [
+   "#6C757D",
+   "#FFB703",
+   "#219EBC",
+   "#FB8500",
+   "#F8F9FA"
+  ],
+  "cover": "covers/kapak-robot-atolyesi.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 118,
+  "slug": "dunya-masallari",
+  "name": "Dünya Masalları",
+  "tagline": "Farklı kültürlerden desenler.",
+  "ideal_for": "Halk masalları ve efsaneler",
+  "palette": [
+   "#9B2226",
+   "#005F73",
+   "#EE9B00",
+   "#94D2BD",
+   "#FAF3E0"
+  ],
+  "cover": "covers/kapak-dunya-masallari.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 119,
+  "slug": "takim-ruhu",
+  "name": "Takım Ruhu",
+  "tagline": "Hız, hareket ve zafer anları.",
+  "ideal_for": "Spor ve arkadaşlık hikâyeleri",
+  "palette": [
+   "#00509D",
+   "#FDC500",
+   "#E63946",
+   "#00296B",
+   "#F5F5F5"
+  ],
+  "cover": "covers/kapak-takim-ruhu.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 120,
+  "slug": "eskiz-defteri",
+  "name": "Eskiz Defteri",
+  "tagline": "Kurşun kalem eskizler, renkli vurgular.",
+  "ideal_for": "Günlük ve sanat hikâyeleri",
+  "palette": [
+   "#495057",
+   "#E76F51",
+   "#2A9D8F",
+   "#E9C46A",
+   "#F8F9FA"
+  ],
+  "cover": "covers/kapak-eskiz-defteri.jpg",
+  "age": [
+   "8-12"
+  ]
+ },
+ {
+  "order": 201,
+  "slug": "grafik-roman",
+  "name": "Grafik Roman",
+  "tagline": "Sert mürekkep, sinematik kareler.",
+  "ideal_for": "Dram, gerilim ve büyüme hikâyeleri",
+  "palette": [
+   "#14181F",
+   "#C1121F",
+   "#669BBC",
+   "#FDF0D5",
+   "#F5F3EE"
+  ],
+  "cover": "covers/kapak-grafik-roman.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 202,
+  "slug": "manga-dram",
+  "name": "Manga Dram",
+  "tagline": "Duyguların konuştuğu sayfalar.",
+  "ideal_for": "Romantik ve dramatik hikâyeler",
+  "palette": [
+   "#14181F",
+   "#F28482",
+   "#84A59D",
+   "#F6BD60",
+   "#FFFFFF"
+  ],
+  "cover": "covers/kapak-manga-dram.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 203,
+  "slug": "sinematik",
+  "name": "Sinematik",
+  "tagline": "Film karesi gibi ışık ve atmosfer.",
+  "ideal_for": "Macera, bilim kurgu, gerilim",
+  "palette": [
+   "#1D3557",
+   "#E63946",
+   "#F1FAEE",
+   "#A8DADC",
+   "#0B132B"
+  ],
+  "cover": "covers/kapak-sinematik.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 204,
+  "slug": "karanlik-fantastik",
+  "name": "Karanlık Fantastik",
+  "tagline": "Kadim şatolar, gizli güçler.",
+  "ideal_for": "Fantastik ve efsane hikâyeleri",
+  "palette": [
+   "#10002B",
+   "#5A189A",
+   "#E0AAFF",
+   "#FFD60A",
+   "#240046"
+  ],
+  "cover": "covers/kapak-karanlik-fantastik.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 205,
+  "slug": "distopya",
+  "name": "Distopya",
+  "tagline": "Beton, sis ve tek bir umut ışığı.",
+  "ideal_for": "Distopik ve toplumsal hikâyeler",
+  "palette": [
+   "#14181F",
+   "#F77F00",
+   "#6C757D",
+   "#ADB5BD",
+   "#E9ECEF"
+  ],
+  "cover": "covers/kapak-distopya.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 206,
+  "slug": "romantik-suluboya",
+  "name": "Romantik Suluboya",
+  "tagline": "Pembe akşamlar, hafif rüzgâr.",
+  "ideal_for": "Aşk ve büyüme hikâyeleri",
+  "palette": [
+   "#FFB4A2",
+   "#E5989B",
+   "#B5838D",
+   "#6D6875",
+   "#FFF5F2"
+  ],
+  "cover": "covers/kapak-romantik-suluboya.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 207,
+  "slug": "lofi-gece",
+  "name": "Lo-fi Gece",
+  "tagline": "Gece yarısı, pencere, kulaklık.",
+  "ideal_for": "Gündelik, içsel ve şehir hikâyeleri",
+  "palette": [
+   "#2D3047",
+   "#93B7BE",
+   "#E0CA3C",
+   "#A799B7",
+   "#1B1B2F"
+  ],
+  "cover": "covers/kapak-lofi-gece.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 208,
+  "slug": "neon-bilimkurgu",
+  "name": "Neon Bilimkurgu",
+  "tagline": "Parlayan tabelalar, yağmurlu sokaklar.",
+  "ideal_for": "Bilim kurgu ve teknoloji",
+  "palette": [
+   "#0D0221",
+   "#FF2A6D",
+   "#05D9E8",
+   "#D1F7FF",
+   "#01012B"
+  ],
+  "cover": "covers/kapak-neon-bilimkurgu.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 209,
+  "slug": "minimal-poster",
+  "name": "Minimal Poster",
+  "tagline": "Az şekil, güçlü fikir.",
+  "ideal_for": "Fikir ve kavram odaklı hikâyeler",
+  "palette": [
+   "#14181F",
+   "#E63946",
+   "#F1FAEE",
+   "#457B9D",
+   "#F7F3EA"
+  ],
+  "cover": "covers/kapak-minimal-poster.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 210,
+  "slug": "mitoloji",
+  "name": "Mitoloji",
+  "tagline": "Tanrılar, kahramanlar, altın çizgiler.",
+  "ideal_for": "Mitoloji ve destan uyarlamaları",
+  "palette": [
+   "#14181F",
+   "#B08D57",
+   "#7F5539",
+   "#2F3E46",
+   "#F3E9D2"
+  ],
+  "cover": "covers/kapak-mitoloji.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 211,
+  "slug": "kara-mizah",
+  "name": "Kara Mizah",
+  "tagline": "İnce zekâ, keskin çizgi.",
+  "ideal_for": "Mizah ve hiciv",
+  "palette": [
+   "#14181F",
+   "#9D0208",
+   "#F4F1DE",
+   "#E07A5F",
+   "#FFFDF8"
+  ],
+  "cover": "covers/kapak-kara-mizah.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 212,
+  "slug": "fanzin",
+  "name": "Fanzin",
+  "tagline": "Fotokopi, kolaj, bağımsız ruh.",
+  "ideal_for": "Müzik, gençlik ve isyan hikâyeleri",
+  "palette": [
+   "#14181F",
+   "#FF006E",
+   "#FFBE0B",
+   "#E9ECEF",
+   "#F8F9FA"
+  ],
+  "cover": "covers/kapak-fanzin.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 213,
+  "slug": "risograf",
+  "name": "Risograf",
+  "tagline": "İki renk mürekkep, kayık baskı.",
+  "ideal_for": "Modern şehir ve gençlik hikâyeleri",
+  "palette": [
+   "#FF48B0",
+   "#0078BF",
+   "#FFE800",
+   "#14181F",
+   "#FFFCF5"
+  ],
+  "cover": "covers/kapak-risograf.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 214,
+  "slug": "kentsel-eskiz",
+  "name": "Kentsel Eskiz",
+  "tagline": "Sokaklar, kafeler, insanlar.",
+  "ideal_for": "Şehir ve gündelik yaşam",
+  "palette": [
+   "#343A40",
+   "#E76F51",
+   "#2A9D8F",
+   "#E9C46A",
+   "#FAF7F2"
+  ],
+  "cover": "covers/kapak-kentsel-eskiz.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 215,
+  "slug": "gerilim",
+  "name": "Gerilim",
+  "tagline": "Uzun gölgeler, tedirgin sessizlik.",
+  "ideal_for": "Gerilim ve korku-gizem",
+  "palette": [
+   "#000000",
+   "#8D0801",
+   "#BFC0C0",
+   "#4F5D75",
+   "#EAEAEA"
+  ],
+  "cover": "covers/kapak-gerilim.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 216,
+  "slug": "yol-hikayesi",
+  "name": "Yol Hikâyesi",
+  "tagline": "Uzun yollar, geniş ufuklar.",
+  "ideal_for": "Yolculuk ve keşif",
+  "palette": [
+   "#F4A261",
+   "#E76F51",
+   "#264653",
+   "#2A9D8F",
+   "#FEFAE0"
+  ],
+  "cover": "covers/kapak-yol-hikayesi.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 217,
+  "slug": "gokyuzu-manzaralari",
+  "name": "Gökyüzü Manzaraları",
+  "tagline": "Kocaman bulutlar, parlak gökler.",
+  "ideal_for": "Duygusal ve umut hikâyeleri",
+  "palette": [
+   "#48CAE4",
+   "#0096C7",
+   "#FFFFFF",
+   "#FFB703",
+   "#023E8A"
+  ],
+  "cover": "covers/kapak-gokyuzu-manzaralari.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 218,
+  "slug": "gotik",
+  "name": "Gotik",
+  "tagline": "Sivri kemerler, mum ışığı, sırlar.",
+  "ideal_for": "Gotik ve gizem",
+  "palette": [
+   "#14181F",
+   "#6A040F",
+   "#ADB5BD",
+   "#343A40",
+   "#F1E9DA"
+  ],
+  "cover": "covers/kapak-gotik.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 219,
+  "slug": "gercekustu-genc",
+  "name": "Gerçeküstü",
+  "tagline": "Rüyayla gerçeğin karıştığı sayfalar.",
+  "ideal_for": "Felsefi ve fantastik hikâyeler",
+  "palette": [
+   "#264653",
+   "#E9C46A",
+   "#F4A261",
+   "#E76F51",
+   "#F3EFE0"
+  ],
+  "cover": "covers/kapak-gercekustu-genc.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 220,
+  "slug": "dijital-boya",
+  "name": "Dijital Boya",
+  "tagline": "Canlı fırça darbeleri, modern ışık.",
+  "ideal_for": "Çağdaş gençlik hikâyeleri",
+  "palette": [
+   "#5E60CE",
+   "#64DFDF",
+   "#FF7AA2",
+   "#FFD166",
+   "#F7F7FF"
+  ],
+  "cover": "covers/kapak-dijital-boya.jpg",
+  "age": [
+   "genc"
+  ]
+ },
+ {
+  "order": 301,
+  "slug": "edebi-minimal",
+  "name": "Edebi Minimal",
+  "tagline": "Sessiz, zarif, düşündüren.",
+  "ideal_for": "Roman ve öykü",
+  "palette": [
+   "#14181F",
+   "#B5121B",
+   "#E9E4D8",
+   "#8D8B86",
+   "#F7F3EA"
+  ],
+  "cover": "covers/kapak-edebi-minimal.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 302,
+  "slug": "klasik-gravur",
+  "name": "Klasik Gravür",
+  "tagline": "Eski baskıların ince çizgisi.",
+  "ideal_for": "Klasik roman ve tarih",
+  "palette": [
+   "#14181F",
+   "#5C4033",
+   "#A68A64",
+   "#3E5C76",
+   "#F3E9D2"
+  ],
+  "cover": "covers/kapak-klasik-gravur.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 303,
+  "slug": "art-deco",
+  "name": "Art Deco",
+  "tagline": "Altın çizgiler, geometrik zarafet.",
+  "ideal_for": "Dönem romanları ve şehir hikâyeleri",
+  "palette": [
+   "#14181F",
+   "#C9A227",
+   "#1B4965",
+   "#F2E9E4",
+   "#0B0C10"
+  ],
+  "cover": "covers/kapak-art-deco.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 304,
+  "slug": "noir-roman",
+  "name": "Noir Roman",
+  "tagline": "Yağmur, sis ve tek bir kırmızı.",
+  "ideal_for": "Polisiye ve gerilim",
+  "palette": [
+   "#000000",
+   "#B5121B",
+   "#D9D9D9",
+   "#595959",
+   "#F2F2F2"
+  ],
+  "cover": "covers/kapak-noir-roman.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 305,
+  "slug": "botanik-atlas",
+  "name": "Botanik Atlas",
+  "tagline": "Eski bir doğa atlasının sayfaları.",
+  "ideal_for": "Doğa yazıları ve deneme",
+  "palette": [
+   "#3A5A40",
+   "#588157",
+   "#A3B18A",
+   "#DAD7CD",
+   "#FBF8F0"
+  ],
+  "cover": "covers/kapak-botanik-atlas.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 306,
+  "slug": "yagli-boya",
+  "name": "Yağlı Boya",
+  "tagline": "Müze tablosu gibi derin renkler.",
+  "ideal_for": "Dönem romanları ve aile sagaları",
+  "palette": [
+   "#582F0E",
+   "#7F4F24",
+   "#B6AD90",
+   "#414833",
+   "#EDE0D4"
+  ],
+  "cover": "covers/kapak-yagli-boya.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 307,
+  "slug": "minyatur",
+  "name": "Minyatür",
+  "tagline": "Osmanlı nakış sanatından ilhamla.",
+  "ideal_for": "Tarih, İstanbul ve dönem hikâyeleri",
+  "palette": [
+   "#9B2226",
+   "#005F73",
+   "#C9A227",
+   "#0A9396",
+   "#F6EEDF"
+  ],
+  "cover": "covers/kapak-minyatur.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 308,
+  "slug": "ebru",
+  "name": "Ebru",
+  "tagline": "Su üstünde dans eden renkler.",
+  "ideal_for": "Şiir, deneme ve kültür kitapları",
+  "palette": [
+   "#1D3557",
+   "#E63946",
+   "#F1FAEE",
+   "#A8DADC",
+   "#FAF6EF"
+  ],
+  "cover": "covers/kapak-ebru.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 309,
+  "slug": "tipografik",
+  "name": "Tipografik",
+  "tagline": "Harfin ve boşluğun güzelliği.",
+  "ideal_for": "Deneme, şiir ve fikir kitapları",
+  "palette": [
+   "#14181F",
+   "#E9C46A",
+   "#F4F1DE",
+   "#3D405B",
+   "#FAF8F2"
+  ],
+  "cover": "covers/kapak-tipografik.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 310,
+  "slug": "seyahat-suluboya",
+  "name": "Seyahat Suluboya",
+  "tagline": "Kıyılar, sokaklar, uzak şehirler.",
+  "ideal_for": "Gezi ve anı kitapları",
+  "palette": [
+   "#277DA1",
+   "#F9C74F",
+   "#F94144",
+   "#90BE6D",
+   "#FDFCF7"
+  ],
+  "cover": "covers/kapak-seyahat-suluboya.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 311,
+  "slug": "modern-soyut",
+  "name": "Modern Soyut",
+  "tagline": "Renk alanları, cesur dengeler.",
+  "ideal_for": "Çağdaş edebiyat",
+  "palette": [
+   "#E76F51",
+   "#264653",
+   "#E9C46A",
+   "#2A9D8F",
+   "#F4F1DE"
+  ],
+  "cover": "covers/kapak-modern-soyut.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 312,
+  "slug": "vintage-afis",
+  "name": "Vintage Afiş",
+  "tagline": "Eski seyahat afişlerinin zarafeti.",
+  "ideal_for": "Anı, gezi ve dönem kitapları",
+  "palette": [
+   "#264653",
+   "#E76F51",
+   "#F4A261",
+   "#2A9D8F",
+   "#FAF0DC"
+  ],
+  "cover": "covers/kapak-vintage-afis.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 313,
+  "slug": "murekkep-firca",
+  "name": "Mürekkep Fırça",
+  "tagline": "Tek nefeste çekilmiş fırça izleri.",
+  "ideal_for": "Şiir ve felsefe kitapları",
+  "palette": [
+   "#14181F",
+   "#6C757D",
+   "#B5121B",
+   "#DEE2E6",
+   "#FAF8F3"
+  ],
+  "cover": "covers/kapak-murekkep-firca.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 314,
+  "slug": "linol-edebi",
+  "name": "Linol Baskı",
+  "tagline": "El baskısının dürüst dokusu.",
+  "ideal_for": "Öykü ve kırsal yaşam",
+  "palette": [
+   "#14181F",
+   "#BC4749",
+   "#F2E8CF",
+   "#386641",
+   "#FBF7EE"
+  ],
+  "cover": "covers/kapak-linol-edebi.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 315,
+  "slug": "kolaj-sanati",
+  "name": "Kolaj Sanatı",
+  "tagline": "Eski fotoğraflar ve kesik kâğıtlar.",
+  "ideal_for": "Anı ve aile tarihi",
+  "palette": [
+   "#5E503F",
+   "#C6AC8F",
+   "#22333B",
+   "#EAE0D5",
+   "#F5EFE6"
+  ],
+  "cover": "covers/kapak-kolaj-sanati.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 316,
+  "slug": "gercekustu-ruya",
+  "name": "Gerçeküstü Rüya",
+  "tagline": "Mantığın dışına açılan kapılar.",
+  "ideal_for": "Fantastik ve felsefi roman",
+  "palette": [
+   "#003049",
+   "#D62828",
+   "#F77F00",
+   "#FCBF49",
+   "#EAE2B7"
+  ],
+  "cover": "covers/kapak-gercekustu-ruya.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 317,
+  "slug": "bauhaus",
+  "name": "Bauhaus",
+  "tagline": "Daire, kare, üçgen ve ana renkler.",
+  "ideal_for": "Tasarım, mimari ve fikir kitapları",
+  "palette": [
+   "#D62828",
+   "#003049",
+   "#FCBF49",
+   "#14181F",
+   "#F7F3EA"
+  ],
+  "cover": "covers/kapak-bauhaus.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 318,
+  "slug": "karakalem",
+  "name": "Karakalem",
+  "tagline": "Kurşunun ve kömürün derinliği.",
+  "ideal_for": "Biyografi ve dram",
+  "palette": [
+   "#212529",
+   "#495057",
+   "#ADB5BD",
+   "#DEE2E6",
+   "#F8F9FA"
+  ],
+  "cover": "covers/kapak-karakalem.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 319,
+  "slug": "empresyonist",
+  "name": "Empresyonist",
+  "tagline": "Işık lekeleri, titreşen renkler.",
+  "ideal_for": "Aşk, doğa ve dönem romanları",
+  "palette": [
+   "#90E0EF",
+   "#F9C74F",
+   "#F3722C",
+   "#577590",
+   "#FFFBF0"
+  ],
+  "cover": "covers/kapak-empresyonist.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ },
+ {
+  "order": 320,
+  "slug": "dergi-illustrasyonu",
+  "name": "Dergi İllüstrasyonu",
+  "tagline": "Kavramsal, zeki, çağdaş.",
+  "ideal_for": "Deneme, iş ve fikir kitapları",
+  "palette": [
+   "#14181F",
+   "#FF6B35",
+   "#004E89",
+   "#F7C59F",
+   "#EFEFD0"
+  ],
+  "cover": "covers/kapak-dergi-illustrasyonu.jpg",
+  "age": [
+   "yetiskin"
+  ]
+ }
+]

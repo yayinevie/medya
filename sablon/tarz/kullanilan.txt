@@ -1,0 +1,58 @@
+# Paylaşılan tarzlar (tarih slug). Yeni paylaşımda bu listeye ekle, aynı tarzı tekrar kullanma.
+2026-11-02 renkli-cizgi-film (karusel)
+2026-11-02 suluboya-masal (karusel)
+2026-11-02 klasik-masal (karusel)
+2026-11-02 3d-oyuncak (karusel)
+2026-11-02 macera-cizgi-roman (karusel)
+2026-11-02 uzay-akademisi (karusel)
+2026-11-02 minyatur (karusel)
+2026-11-02 noir-roman (karusel)
+2026-11-03 kuru-boya
+2026-11-04 kagit-kolaj
+2026-11-05 kasif-defteri
+2026-11-06 pastel-boya-ruyasi
+2026-11-07 piksel-dunyasi
+2026-11-08 uyku-vakti
+2026-11-09 genc-dedektif
+2026-11-10 deniz-alti
+2026-11-11 ejderha-diyari
+2026-11-12 modern-sade
+2026-11-03 kece-masal
+2026-11-04 sinematik
+2026-11-05 ebru
+2026-11-06 sevimli-hayvanlar
+2026-11-07 robot-atolyesi
+2026-11-08 art-deco
+2026-11-09 balon-dunyasi
+2026-11-04 parmak-boya (tahmin)
+2026-11-07 botanik-atlas (tahmin)
+2026-11-05 noktali-desen (karusel 3-7)
+2026-11-05 iskandinav-masali (karusel 3-7)
+2026-11-05 tebesir-tahtasi (karusel 3-7)
+2026-11-05 geometrik-sekiller (karusel 3-7)
+2026-11-05 sicak-guaj (karusel 3-7)
+2026-11-08 doga-gozlemcisi (karusel 8-12)
+2026-11-08 manga-esintisi (karusel 8-12)
+2026-11-08 mizah-karikatur (karusel 8-12)
+2026-11-08 tarihte-yolculuk (karusel 8-12)
+2026-11-08 sokak-sanati (karusel 8-12)
+2026-11-09 grafik-roman (karusel genç/yetişkin)
+2026-11-09 lofi-gece (karusel genç/yetişkin)
+2026-11-09 neon-bilimkurgu (karusel genç/yetişkin)
+2026-11-09 edebi-minimal (karusel genç/yetişkin)
+2026-11-09 seyahat-suluboya (karusel genç/yetişkin)
+2026-11-02 gerilim gotik karanlik-fantastik distopya gercekustu-ruya (karusel korku-gerilim)
+2026-11-02 manga-dram romantik-suluboya karakalem yagli-boya gokyuzu-manzaralari (karusel dram)
+2026-11-02 dijital-boya fanzin risograf kara-mizah yol-hikayesi (karusel genç okur)
+2026-11-02 klasik-gravur linol-edebi murekkep-firca tipografik empresyonist (karusel roman-öykü)
+2026-11-02 mitoloji gercekustu-genc modern-soyut bauhaus minimal-poster (karusel sıra dışı)
+2026-11-10 kolaj-sanati
+2026-11-11 linol-baski-cocuk
+2026-11-10 animasyon-filmi retro-cizgi-roman suluboya-macera gizemli-orman takim-ruhu (karusel macera)
+2026-11-11 vintage-afis kentsel-eskiz (A mı B mi)
+2026-11-12 kagit-oyma
+2026-11-13 dergi-illustrasyonu
+2026-11-14 dunya-masallari
+2026-11-15 eskiz-defteri
+# 2026-11-12..18 tekrar kullanım (farklı format): tahmin risograf, murekkep-firca, retro-cizgi-roman; A/B kara-mizah+sinematik, kagit-oyma+dunya-masallari, seyahat-suluboya+yol-hikayesi; karuseller bilim-keşif, şehir, aşk, bilimkurgu-fantastik, polisiye, tarih, okul, anı, 5 adım; vitrinler uyku, korku, hayvan, macera, genç, şiir, yılbaşı
+# Kullanılmamış tarz kalmadı (80/80).
